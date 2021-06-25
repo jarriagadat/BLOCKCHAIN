@@ -1,4 +1,5 @@
 # BLOCKCHAIN STUFF
+- Token Economy: How the Web3 reinvents the Internet https://github.com/Token-Economy-Book/EnglishOriginal/wiki
 
 ## BITCOIN
 - Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf
