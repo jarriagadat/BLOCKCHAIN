@@ -2,11 +2,23 @@
 
 ## BITCOIN
 - Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf
+- DEMO https://blockchaindemo.io/?ref=producthunt
+- DEMO https://coindemo.io/
 
-# ETHEREUM
+# STUFF
 - Ethereum yelllowpaper https://ethereum.github.io/yellowpaper/paper.pdf
 
-## DEMOS
-- https://blockchaindemo.io/?ref=producthunt
-- https://coindemo.io/
+## CARDANO
+
+## POLKADOT
+
+## KUSAMA
+- https://kusama.network/
+- https://www.youtube.com/watch?v=bMegZaFfrzI
+- https://www.youtube.com/watch?v=cDHPFsPX9iA
+
+## IPFS
+
+## FIL
+
 
